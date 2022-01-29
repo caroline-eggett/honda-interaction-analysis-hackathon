@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: v2x-sdk
+Version: 0.1
+Summary: An sdk that for the V2X data
+Home-page: UNKNOWN
+Author: Ben Davis
+Author-email: bdavis@hra.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7.3
+
+An sdk that pulls data from the V2X dataset.
+
