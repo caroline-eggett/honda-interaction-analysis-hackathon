@@ -1,4 +1,4 @@
-# Insturction Documentation
+# Instruction Documentation
 
 ## HOST Table
 ### Host Vehichle System States (CAN)
