@@ -40,3 +40,8 @@
 ### Trip Endpoints
 - Difference b|t StartLocalTime and EndLocalTime
 - Additional Columns for avg. mileage: Latitude and Longitude (use triangle theory)
+
+## Feature Modeling
+
+- Caroline: will make the KMeans model
+- Sherry & Rachelle: will determine the names of the clusters
