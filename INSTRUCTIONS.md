@@ -7,7 +7,7 @@
 - Turnsignal (cnt: 4)
 - Transition State (N, P, D, R)
 - Stability Control Status (Binary): keep you on course when steering
-- Tracsition Control (cnt: 8 ?): keep traction between tires and road in sleepery/dangerous conditions
+- Traction Control (cnt: 8 ?): keep traction between tires and road in sleepery/dangerous conditions
 
 ### Host Vehicle Kinematic State (CAN*)
 - Brakestatus (Binary)
